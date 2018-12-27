@@ -1,4 +1,4 @@
-CASSAND Gwendoline & CASSAND Nancy (en peer-learning)
+Gwendoline & Nancy .C (peer-learning)
 
 exo_tab.rb ---> EXERCICE AVEC LES @ de twitter
 
